@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on [b-log] (https://github.com/augutso1/b-log.git)
+- 🔭 I’m currently working on b-log
 - 🌱 I’m currently learning TypeScript
